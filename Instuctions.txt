@@ -7,4 +7,7 @@ Click done and boot the server.
 Once you are in you will not be able to move.
 You have to ype: /login 58895889 into chat so you can do things.
 All Set.
-P.S if you want more servers you can contact me through the Contact_Me.md file you also downloaded.
+P.S if you want more servers you can google " eaglecraft servers " but you will hae to setup your own login wich can be a pain.
+another one is : wss://eag.merlinbeatsyt.tk/server
+SOLUTIONS TO PROBLEMS
+If you cant see the minecraft file its because its a hidden file so you have to enable viewing hidden files you can google how to do this.
